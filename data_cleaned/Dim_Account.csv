@@ -1,0 +1,901 @@
+account_id,company_name,industry,company_size,geographic_region
+1001,Company_360,Manufacturing,Mid-Market,North America
+1002,Company_27,Media,Smb,Latam
+1003,Company_160,Consulting,Smb,Apac
+1004,Company_249,Finance,Smb,Apac
+1005,Company_240,Unknown,Smb,Emea
+1006,Company_17,Consulting,Enterprise,Latam
+1007,Company_479,Retail,Enterprise,Apac
+1008,Company_260,Unknown,Smb,North America
+1009,Company_314,Consulting,Smb,Apac
+1010,Company_182,Retail,Mid-Market,Emea
+1011,Company_156,Media,Unknown,Emea
+1012,Company_223,Consulting,Enterprise,Emea
+1013,Company_413,Manufacturing,Smb,Latam
+1014,Company_1,Unknown,Enterprise,Latam
+1015,Company_417,Finance,Mid-Market,Apac
+1016,Company_302,Finance,Enterprise,Emea
+1017,Company_17,Retail,Enterprise,North America
+1018,Company_410,Technology,Mid-Market,Emea
+1019,Company_227,Finance,Mid-Market,North America
+1020,Company_9,Healthcare,Smb,Latam
+1021,Company_374,Finance,Mid-Market,Latam
+1022,Company_177,Healthcare,Mid-Market,Apac
+1023,Company_243,Healthcare,Smb,Emea
+1024,Company_123,Consulting,Mid-Market,Latam
+1025,Company_87,Retail,Mid-Market,North America
+1026,Company_4,Retail,Unknown,Emea
+1027,Company_270,Education,Smb,Latam
+1028,Company_366,Retail,Smb,Emea
+1029,Company_24,Unknown,Mid-Market,North America
+1030,Company_351,Unknown,Smb,Emea
+1031,Company_488,Retail,Enterprise,Latam
+1032,Company_405,Retail,Mid-Market,North America
+1033,Company_264,Unknown,Unknown,North America
+1034,Company_130,Technology,Unknown,Latam
+1035,Company_52,Manufacturing,Smb,North America
+1036,Company_254,Healthcare,Enterprise,Emea
+1037,Company_393,Retail,Mid-Market,North America
+1038,Company_342,Technology,Mid-Market,Apac
+1039,Company_31,Retail,Smb,Emea
+1040,Company_43,Education,Enterprise,North America
+1041,Company_179,Technology,Enterprise,Emea
+1042,Company_156,Media,Mid-Market,Emea
+1043,Company_235,Manufacturing,Mid-Market,Apac
+1044,Company_136,Manufacturing,Enterprise,Apac
+1045,Company_193,Education,Unknown,Emea
+1046,Company_434,Technology,Smb,Emea
+1047,Company_377,Healthcare,Smb,Latam
+1048,Company_241,Retail,Smb,Apac
+1049,Company_28,Education,Enterprise,Latam
+1050,Company_266,Unknown,Mid-Market,Apac
+1051,Company_122,Media,Enterprise,Apac
+1052,Company_301,Consulting,Smb,Apac
+1053,Company_140,Education,Enterprise,North America
+1054,Company_455,Education,Mid-Market,Emea
+1055,Company_484,Finance,Mid-Market,North America
+1056,Company_335,Healthcare,Enterprise,Apac
+1057,Company_293,Finance,Enterprise,North America
+1058,Company_409,Consulting,Enterprise,Latam
+1059,Company_265,Education,Smb,Apac
+1060,Company_456,Consulting,Enterprise,Latam
+1061,Company_259,Unknown,Smb,Emea
+1062,Company_265,Finance,Smb,Emea
+1063,Company_280,Technology,Enterprise,Latam
+1064,Company_496,Retail,Mid-Market,Emea
+1065,Company_65,Healthcare,Smb,Emea
+1066,Company_142,Consulting,Enterprise,Latam
+1067,Company_408,Media,Smb,Latam
+1068,Company_497,Media,Mid-Market,Latam
+1069,Company_214,Technology,Smb,Apac
+1070,Company_279,Technology,Enterprise,Emea
+1071,Company_8,Retail,Smb,Emea
+1072,Company_479,Manufacturing,Smb,Emea
+1073,Company_441,Retail,Enterprise,Apac
+1074,Company_392,Healthcare,Mid-Market,Emea
+1075,Company_302,Consulting,Mid-Market,North America
+1076,Company_334,Healthcare,Enterprise,Apac
+1077,Company_259,Unknown,Mid-Market,Emea
+1078,Company_188,Unknown,Mid-Market,Apac
+1079,Company_442,Finance,Enterprise,Emea
+1080,Company_486,Technology,Smb,Latam
+1081,Company_232,Education,Unknown,Apac
+1082,Company_124,Consulting,Enterprise,Latam
+1083,Company_126,Media,Enterprise,Latam
+1084,Company_360,Healthcare,Mid-Market,North America
+1085,Company_271,Manufacturing,Smb,North America
+1086,Company_437,Manufacturing,Smb,North America
+1087,Company_69,Healthcare,Mid-Market,Apac
+1088,Company_362,Education,Mid-Market,North America
+1089,Company_368,Education,Smb,North America
+1090,Company_493,Manufacturing,Enterprise,North America
+1091,Company_212,Retail,Smb,Emea
+1092,Company_446,Manufacturing,Enterprise,North America
+1093,Company_285,Consulting,Smb,North America
+1094,Company_82,Manufacturing,Smb,Latam
+1095,Company_332,Consulting,Mid-Market,North America
+1096,Company_477,Media,Smb,Latam
+1097,Company_482,Media,Enterprise,Emea
+1098,Company_170,Healthcare,Mid-Market,Apac
+1099,Company_189,Technology,Mid-Market,Latam
+1100,Company_394,Education,Mid-Market,North America
+1101,Company_337,Media,Enterprise,North America
+1102,Company_434,Manufacturing,Enterprise,North America
+1103,Company_198,Education,Smb,North America
+1104,Company_132,Finance,Mid-Market,Emea
+1105,Company_391,Media,Mid-Market,North America
+1106,Company_265,Consulting,Mid-Market,Apac
+1107,Company_138,Education,Enterprise,Latam
+1108,Company_165,Finance,Unknown,Apac
+1109,Company_481,Consulting,Unknown,Latam
+1110,Company_329,Education,Smb,Emea
+1111,Company_144,Healthcare,Enterprise,Latam
+1112,Company_236,Healthcare,Smb,Emea
+1113,Company_31,Healthcare,Mid-Market,Emea
+1114,Company_50,Unknown,Mid-Market,Apac
+1115,Company_12,Unknown,Smb,Apac
+1116,Company_293,Media,Enterprise,North America
+1117,Company_188,Retail,Smb,Emea
+1118,Company_362,Finance,Mid-Market,Emea
+1119,Company_485,Technology,Mid-Market,Emea
+1120,Company_164,Manufacturing,Mid-Market,Latam
+1121,Company_437,Finance,Smb,Latam
+1122,Company_328,Healthcare,Enterprise,North America
+1123,Company_485,Technology,Smb,Apac
+1124,Company_315,Education,Mid-Market,North America
+1125,Company_388,Retail,Smb,North America
+1126,Company_156,Unknown,Mid-Market,Emea
+1127,Company_467,Retail,Smb,Latam
+1128,Company_290,Manufacturing,Enterprise,Emea
+1129,Company_433,Retail,Mid-Market,Latam
+1130,Company_350,Education,Enterprise,Apac
+1131,Company_309,Media,Smb,Apac
+1132,Company_132,Healthcare,Enterprise,North America
+1133,Company_141,Unknown,Enterprise,North America
+1134,Company_222,Manufacturing,Enterprise,Apac
+1135,Company_289,Unknown,Mid-Market,Apac
+1136,Company_372,Consulting,Mid-Market,Emea
+1137,Company_360,Retail,Enterprise,Emea
+1138,Company_419,Healthcare,Mid-Market,North America
+1139,Company_66,Manufacturing,Mid-Market,Apac
+1140,Company_26,Healthcare,Smb,North America
+1141,Company_466,Media,Enterprise,North America
+1142,Company_186,Education,Enterprise,North America
+1143,Company_291,Retail,Mid-Market,Latam
+1144,Company_119,Finance,Mid-Market,North America
+1145,Company_248,Technology,Enterprise,North America
+1146,Company_481,Healthcare,Smb,North America
+1147,Company_179,Retail,Enterprise,North America
+1148,Company_5,Media,Smb,Apac
+1149,Company_450,Manufacturing,Mid-Market,Latam
+1150,Company_180,Consulting,Mid-Market,Latam
+1151,Company_133,Education,Enterprise,Apac
+1152,Company_182,Unknown,Mid-Market,Latam
+1153,Company_262,Retail,Smb,Emea
+1154,Company_242,Manufacturing,Smb,North America
+1155,Company_123,Technology,Smb,Emea
+1156,Company_393,Retail,Mid-Market,Emea
+1157,Company_258,Retail,Mid-Market,Emea
+1158,Company_428,Education,Unknown,Apac
+1159,Company_324,Manufacturing,Enterprise,North America
+1160,Company_419,Finance,Smb,Latam
+1161,Company_310,Finance,Enterprise,Latam
+1162,Company_192,Retail,Enterprise,Apac
+1163,Company_133,Education,Mid-Market,Latam
+1164,Company_364,Retail,Smb,North America
+1165,Company_429,Manufacturing,Enterprise,Emea
+1166,Company_192,Education,Enterprise,Apac
+1167,Company_458,Unknown,Unknown,North America
+1168,Company_278,Manufacturing,Mid-Market,Latam
+1169,Company_64,Consulting,Enterprise,Apac
+1170,Company_321,Healthcare,Mid-Market,Latam
+1171,Company_36,Media,Smb,Emea
+1172,Company_442,Education,Enterprise,Apac
+1173,Company_3,Manufacturing,Enterprise,Emea
+1174,Company_267,Retail,Enterprise,Apac
+1175,Company_250,Retail,Mid-Market,Apac
+1176,Company_92,Manufacturing,Enterprise,North America
+1177,Company_346,Retail,Unknown,Emea
+1178,Company_328,Consulting,Smb,Apac
+1179,Company_232,Retail,Smb,Latam
+1180,Company_153,Manufacturing,Enterprise,Emea
+1181,Company_381,Manufacturing,Mid-Market,Latam
+1182,Company_101,Media,Smb,Apac
+1183,Company_250,Consulting,Smb,Apac
+1184,Company_361,Consulting,Unknown,North America
+1185,Company_342,Healthcare,Mid-Market,Apac
+1186,Company_90,Finance,Mid-Market,Apac
+1187,Company_466,Healthcare,Enterprise,Apac
+1188,Company_70,Finance,Enterprise,Latam
+1189,Company_25,Finance,Unknown,Emea
+1190,Company_490,Healthcare,Enterprise,North America
+1191,Company_429,Manufacturing,Smb,Latam
+1192,Company_169,Manufacturing,Enterprise,Latam
+1193,Company_108,Consulting,Enterprise,Latam
+1194,Company_490,Healthcare,Smb,Emea
+1195,Company_66,Consulting,Enterprise,North America
+1196,Company_193,Consulting,Smb,Apac
+1197,Company_476,Education,Smb,Latam
+1198,Company_366,Healthcare,Enterprise,Latam
+1199,Company_206,Finance,Mid-Market,Apac
+1200,Company_102,Consulting,Enterprise,Apac
+1201,Company_190,Consulting,Mid-Market,North America
+1202,Company_204,Education,Mid-Market,North America
+1203,Company_284,Consulting,Unknown,Apac
+1204,Company_403,Retail,Enterprise,North America
+1205,Company_172,Manufacturing,Mid-Market,Latam
+1206,Company_86,Unknown,Mid-Market,Emea
+1207,Company_18,Education,Mid-Market,North America
+1208,Company_213,Healthcare,Mid-Market,Emea
+1209,Company_104,Finance,Enterprise,Apac
+1210,Company_294,Technology,Enterprise,Latam
+1211,Company_195,Unknown,Mid-Market,Latam
+1212,Company_196,Retail,Enterprise,Emea
+1213,Company_279,Retail,Smb,Emea
+1214,Company_333,Education,Enterprise,Emea
+1215,Company_101,Retail,Smb,Apac
+1216,Company_397,Finance,Smb,Apac
+1217,Company_25,Retail,Enterprise,Emea
+1218,Company_310,Consulting,Enterprise,Apac
+1219,Company_421,Retail,Enterprise,North America
+1220,Company_492,Healthcare,Smb,North America
+1221,Company_98,Consulting,Enterprise,North America
+1222,Company_265,Finance,Mid-Market,Emea
+1223,Company_25,Manufacturing,Mid-Market,Emea
+1224,Company_296,Technology,Mid-Market,Latam
+1225,Company_368,Finance,Mid-Market,Apac
+1226,Company_226,Healthcare,Smb,Apac
+1227,Company_329,Education,Enterprise,Latam
+1228,Company_354,Media,Smb,Latam
+1229,Company_313,Education,Mid-Market,Apac
+1230,Company_131,Retail,Unknown,Latam
+1231,Company_468,Retail,Enterprise,Apac
+1232,Company_333,Consulting,Smb,North America
+1233,Company_405,Retail,Unknown,Emea
+1234,Company_89,Education,Enterprise,Latam
+1235,Company_30,Manufacturing,Mid-Market,Apac
+1236,Company_369,Media,Enterprise,Emea
+1237,Company_316,Healthcare,Smb,Latam
+1238,Company_455,Manufacturing,Mid-Market,Emea
+1239,Company_142,Healthcare,Smb,Emea
+1240,Company_318,Technology,Mid-Market,Apac
+1241,Company_44,Media,Smb,Emea
+1242,Company_360,Consulting,Mid-Market,Latam
+1243,Company_79,Unknown,Smb,North America
+1244,Company_342,Education,Smb,Apac
+1245,Company_326,Finance,Smb,Emea
+1246,Company_348,Media,Mid-Market,Emea
+1247,Company_338,Education,Mid-Market,Latam
+1248,Company_64,Healthcare,Enterprise,Latam
+1249,Company_157,Finance,Mid-Market,North America
+1250,Company_362,Healthcare,Enterprise,Emea
+1251,Company_142,Media,Mid-Market,Apac
+1252,Company_36,Retail,Enterprise,Emea
+1253,Company_263,Manufacturing,Smb,Emea
+1254,Company_453,Media,Smb,Latam
+1255,Company_92,Finance,Smb,North America
+1256,Company_431,Consulting,Mid-Market,North America
+1257,Company_346,Consulting,Unknown,Apac
+1258,Company_14,Technology,Mid-Market,Latam
+1259,Company_172,Finance,Smb,Apac
+1260,Company_474,Unknown,Smb,Emea
+1261,Company_478,Unknown,Smb,Emea
+1262,Company_181,Unknown,Smb,North America
+1263,Company_137,Retail,Mid-Market,Emea
+1264,Company_492,Retail,Smb,Latam
+1265,Company_257,Manufacturing,Unknown,Latam
+1266,Company_440,Education,Smb,Emea
+1267,Company_81,Retail,Mid-Market,North America
+1268,Company_192,Manufacturing,Enterprise,North America
+1269,Company_441,Manufacturing,Enterprise,Latam
+1270,Company_252,Media,Mid-Market,North America
+1271,Company_232,Education,Smb,Apac
+1272,Company_334,Consulting,Mid-Market,Emea
+1273,Company_351,Manufacturing,Mid-Market,Emea
+1274,Company_51,Technology,Smb,Latam
+1275,Company_413,Retail,Unknown,Emea
+1276,Company_329,Consulting,Enterprise,Latam
+1277,Company_278,Finance,Mid-Market,Emea
+1278,Company_263,Education,Enterprise,Emea
+1279,Company_257,Healthcare,Enterprise,North America
+1280,Company_268,Media,Smb,North America
+1281,Company_355,Manufacturing,Mid-Market,Apac
+1282,Company_94,Manufacturing,Enterprise,Latam
+1283,Company_161,Finance,Smb,Apac
+1284,Company_402,Retail,Enterprise,North America
+1285,Company_37,Finance,Smb,Emea
+1286,Company_184,Unknown,Smb,Apac
+1287,Company_127,Healthcare,Enterprise,Latam
+1288,Company_482,Retail,Mid-Market,North America
+1289,Company_330,Manufacturing,Unknown,Apac
+1290,Company_165,Media,Smb,North America
+1291,Company_460,Technology,Enterprise,North America
+1292,Company_495,Consulting,Mid-Market,Latam
+1293,Company_187,Education,Enterprise,North America
+1294,Company_138,Education,Enterprise,Apac
+1295,Company_428,Retail,Enterprise,North America
+1296,Company_223,Healthcare,Enterprise,North America
+1297,Company_357,Technology,Mid-Market,Emea
+1298,Company_485,Media,Enterprise,North America
+1299,Company_495,Finance,Enterprise,North America
+1300,Company_261,Education,Smb,Apac
+1301,Company_453,Unknown,Mid-Market,Apac
+1302,Company_484,Finance,Smb,Apac
+1303,Company_390,Consulting,Enterprise,Emea
+1304,Company_97,Manufacturing,Smb,Latam
+1305,Company_34,Manufacturing,Mid-Market,North America
+1306,Company_397,Healthcare,Enterprise,Apac
+1307,Company_493,Retail,Smb,Apac
+1308,Company_78,Education,Mid-Market,North America
+1309,Company_255,Media,Mid-Market,North America
+1310,Company_473,Retail,Smb,Emea
+1311,Company_223,Media,Smb,Emea
+1312,Company_440,Media,Smb,Latam
+1313,Company_436,Unknown,Mid-Market,Apac
+1314,Company_156,Healthcare,Enterprise,Emea
+1315,Company_230,Healthcare,Enterprise,Latam
+1316,Company_201,Education,Enterprise,Apac
+1317,Company_104,Healthcare,Mid-Market,Apac
+1318,Company_439,Manufacturing,Mid-Market,Apac
+1319,Company_253,Media,Mid-Market,Apac
+1320,Company_199,Consulting,Smb,Latam
+1321,Company_99,Healthcare,Smb,Emea
+1322,Company_302,Media,Mid-Market,Latam
+1323,Company_383,Retail,Enterprise,Latam
+1324,Company_325,Education,Mid-Market,Latam
+1325,Company_98,Unknown,Smb,North America
+1326,Company_309,Unknown,Mid-Market,North America
+1327,Company_123,Manufacturing,Mid-Market,Apac
+1328,Company_140,Consulting,Mid-Market,North America
+1329,Company_58,Consulting,Mid-Market,Apac
+1330,Company_77,Consulting,Enterprise,North America
+1331,Company_168,Unknown,Smb,Latam
+1332,Company_406,Retail,Mid-Market,Emea
+1333,Company_473,Unknown,Mid-Market,Latam
+1334,Company_96,Manufacturing,Unknown,North America
+1335,Company_166,Technology,Mid-Market,Emea
+1336,Company_445,Finance,Smb,Emea
+1337,Company_295,Healthcare,Smb,North America
+1338,Company_432,Retail,Unknown,Apac
+1339,Company_287,Consulting,Smb,Apac
+1340,Company_188,Technology,Mid-Market,Emea
+1341,Company_41,Healthcare,Smb,North America
+1342,Company_254,Finance,Enterprise,Latam
+1343,Company_312,Consulting,Enterprise,Apac
+1344,Company_348,Retail,Enterprise,Emea
+1345,Company_370,Education,Enterprise,Apac
+1346,Company_391,Manufacturing,Enterprise,Apac
+1347,Company_243,Media,Mid-Market,Emea
+1348,Company_232,Manufacturing,Enterprise,Latam
+1349,Company_122,Finance,Mid-Market,North America
+1350,Company_416,Manufacturing,Smb,Apac
+1351,Company_318,Finance,Enterprise,Apac
+1352,Company_79,Retail,Enterprise,Emea
+1353,Company_278,Unknown,Mid-Market,Apac
+1354,Company_372,Retail,Smb,Emea
+1355,Company_253,Retail,Smb,Emea
+1356,Company_221,Healthcare,Smb,Emea
+1357,Company_139,Retail,Mid-Market,North America
+1358,Company_316,Media,Enterprise,Emea
+1359,Company_60,Retail,Mid-Market,Latam
+1360,Company_257,Education,Smb,Emea
+1361,Company_457,Consulting,Mid-Market,Apac
+1362,Company_377,Technology,Enterprise,Emea
+1363,Company_215,Consulting,Enterprise,Emea
+1364,Company_77,Education,Mid-Market,North America
+1365,Company_97,Finance,Enterprise,North America
+1366,Company_185,Education,Smb,Apac
+1367,Company_170,Retail,Unknown,Apac
+1368,Company_446,Education,Mid-Market,Latam
+1369,Company_200,Consulting,Smb,Apac
+1370,Company_236,Technology,Mid-Market,Latam
+1371,Company_347,Media,Enterprise,Emea
+1372,Company_200,Technology,Enterprise,Latam
+1373,Company_418,Unknown,Smb,North America
+1374,Company_100,Media,Mid-Market,Emea
+1375,Company_38,Media,Smb,North America
+1376,Company_359,Technology,Enterprise,Latam
+1377,Company_380,Unknown,Mid-Market,Emea
+1378,Company_432,Retail,Smb,Latam
+1379,Company_495,Finance,Mid-Market,Emea
+1380,Company_454,Finance,Smb,North America
+1381,Company_387,Education,Smb,Emea
+1382,Company_72,Technology,Smb,Apac
+1383,Company_294,Finance,Enterprise,Emea
+1384,Company_488,Healthcare,Smb,Emea
+1385,Company_214,Manufacturing,Mid-Market,Latam
+1386,Company_186,Retail,Enterprise,North America
+1387,Company_86,Retail,Mid-Market,Emea
+1388,Company_279,Finance,Smb,Latam
+1389,Company_44,Finance,Enterprise,Apac
+1390,Company_166,Education,Enterprise,Apac
+1391,Company_397,Retail,Smb,North America
+1392,Company_159,Unknown,Enterprise,Apac
+1393,Company_191,Technology,Smb,Emea
+1394,Company_32,Retail,Mid-Market,Latam
+1395,Company_450,Retail,Enterprise,Apac
+1396,Company_90,Education,Mid-Market,North America
+1397,Company_486,Technology,Enterprise,Latam
+1398,Company_365,Technology,Enterprise,Apac
+1399,Company_422,Healthcare,Smb,Latam
+1400,Company_446,Media,Smb,Apac
+1401,Company_102,Media,Mid-Market,Latam
+1402,Company_199,Education,Enterprise,Apac
+1403,Company_458,Healthcare,Enterprise,Apac
+1404,Company_205,Consulting,Smb,Latam
+1405,Company_459,Technology,Mid-Market,Apac
+1406,Company_303,Technology,Smb,Latam
+1407,Company_182,Media,Smb,Apac
+1408,Company_190,Manufacturing,Enterprise,North America
+1409,Company_35,Manufacturing,Smb,Latam
+1410,Company_302,Finance,Enterprise,Apac
+1411,Company_173,Manufacturing,Smb,North America
+1412,Company_390,Education,Enterprise,Latam
+1413,Company_397,Manufacturing,Mid-Market,Latam
+1414,Company_340,Retail,Mid-Market,Emea
+1415,Company_339,Education,Mid-Market,Apac
+1416,Company_311,Healthcare,Smb,North America
+1417,Company_440,Media,Enterprise,North America
+1418,Company_408,Manufacturing,Smb,Emea
+1419,Company_263,Finance,Smb,Emea
+1420,Company_94,Education,Smb,Latam
+1421,Company_140,Healthcare,Enterprise,North America
+1422,Company_498,Retail,Mid-Market,North America
+1423,Company_463,Finance,Smb,Apac
+1424,Company_121,Consulting,Enterprise,North America
+1425,Company_6,Healthcare,Mid-Market,Latam
+1426,Company_113,Media,Smb,Apac
+1427,Company_30,Education,Enterprise,North America
+1428,Company_303,Finance,Mid-Market,North America
+1429,Company_103,Retail,Unknown,North America
+1430,Company_274,Finance,Mid-Market,Apac
+1431,Company_408,Education,Enterprise,Emea
+1432,Company_313,Manufacturing,Enterprise,Emea
+1433,Company_17,Retail,Mid-Market,North America
+1434,Company_235,Manufacturing,Enterprise,Latam
+1435,Company_177,Retail,Mid-Market,Latam
+1436,Company_373,Technology,Enterprise,Latam
+1437,Company_458,Media,Smb,Apac
+1438,Company_135,Education,Smb,North America
+1439,Company_37,Retail,Enterprise,North America
+1440,Company_425,Media,Smb,Latam
+1441,Company_427,Unknown,Smb,North America
+1442,Company_253,Retail,Smb,Emea
+1443,Company_40,Unknown,Mid-Market,Latam
+1444,Company_262,Finance,Enterprise,Apac
+1445,Company_415,Unknown,Mid-Market,North America
+1446,Company_392,Retail,Enterprise,Latam
+1447,Company_274,Education,Enterprise,Apac
+1448,Company_204,Media,Smb,North America
+1449,Company_50,Manufacturing,Smb,Latam
+1450,Company_236,Media,Smb,Emea
+1451,Company_456,Finance,Mid-Market,Emea
+1452,Company_376,Retail,Enterprise,North America
+1453,Company_74,Unknown,Smb,Emea
+1454,Company_224,Healthcare,Enterprise,Latam
+1455,Company_303,Education,Smb,Emea
+1456,Company_30,Finance,Smb,Emea
+1457,Company_29,Manufacturing,Mid-Market,Latam
+1458,Company_381,Manufacturing,Mid-Market,Emea
+1459,Company_85,Media,Unknown,Apac
+1460,Company_28,Technology,Smb,North America
+1461,Company_57,Consulting,Enterprise,Apac
+1462,Company_231,Consulting,Enterprise,Latam
+1463,Company_197,Media,Mid-Market,Emea
+1464,Company_3,Healthcare,Enterprise,Latam
+1465,Company_323,Technology,Enterprise,North America
+1466,Company_170,Consulting,Smb,Apac
+1467,Company_128,Education,Smb,Emea
+1468,Company_23,Consulting,Mid-Market,Latam
+1469,Company_94,Finance,Enterprise,Emea
+1470,Company_495,Education,Mid-Market,Emea
+1471,Company_182,Technology,Unknown,North America
+1472,Company_64,Healthcare,Enterprise,Emea
+1473,Company_487,Consulting,Enterprise,North America
+1474,Company_341,Unknown,Smb,Emea
+1475,Company_436,Manufacturing,Mid-Market,Emea
+1476,Company_256,Media,Mid-Market,Emea
+1477,Company_470,Retail,Enterprise,North America
+1478,Company_33,Finance,Enterprise,North America
+1479,Company_327,Education,Mid-Market,Latam
+1480,Company_423,Consulting,Mid-Market,Latam
+1481,Company_345,Media,Mid-Market,Emea
+1482,Company_344,Media,Smb,Emea
+1483,Company_482,Unknown,Mid-Market,Apac
+1484,Company_42,Manufacturing,Smb,Emea
+1485,Company_472,Technology,Enterprise,North America
+1486,Company_14,Manufacturing,Enterprise,Latam
+1487,Company_146,Media,Mid-Market,Latam
+1488,Company_148,Media,Smb,Latam
+1489,Company_180,Technology,Mid-Market,Apac
+1490,Company_212,Education,Mid-Market,Latam
+1491,Company_383,Healthcare,Enterprise,Latam
+1492,Company_204,Retail,Mid-Market,Apac
+1493,Company_122,Retail,Unknown,North America
+1494,Company_253,Healthcare,Unknown,North America
+1495,Company_183,Finance,Mid-Market,Apac
+1496,Company_7,Education,Enterprise,Emea
+1497,Company_367,Consulting,Enterprise,Apac
+1498,Company_313,Media,Enterprise,North America
+1499,Company_286,Healthcare,Enterprise,Latam
+1500,Company_231,Technology,Enterprise,North America
+1501,Company_422,Technology,Mid-Market,Latam
+1502,Company_220,Unknown,Mid-Market,North America
+1503,Company_370,Manufacturing,Smb,Apac
+1504,Company_358,Healthcare,Smb,Emea
+1505,Company_53,Manufacturing,Smb,Apac
+1506,Company_139,Retail,Unknown,Emea
+1507,Company_231,Consulting,Smb,North America
+1508,Company_8,Healthcare,Mid-Market,Emea
+1509,Company_463,Manufacturing,Enterprise,Latam
+1510,Company_153,Manufacturing,Mid-Market,Emea
+1511,Company_431,Technology,Mid-Market,Emea
+1512,Company_231,Retail,Mid-Market,Emea
+1513,Company_230,Technology,Mid-Market,Latam
+1514,Company_107,Finance,Mid-Market,Emea
+1515,Company_494,Education,Enterprise,Apac
+1516,Company_137,Manufacturing,Mid-Market,Apac
+1517,Company_470,Consulting,Smb,North America
+1518,Company_115,Media,Mid-Market,Apac
+1519,Company_36,Media,Enterprise,Emea
+1520,Company_302,Retail,Unknown,North America
+1521,Company_220,Retail,Enterprise,Apac
+1522,Company_493,Education,Enterprise,Latam
+1523,Company_247,Retail,Enterprise,North America
+1524,Company_215,Manufacturing,Smb,Latam
+1525,Company_424,Consulting,Unknown,North America
+1526,Company_305,Unknown,Enterprise,Emea
+1527,Company_192,Technology,Smb,Emea
+1528,Company_311,Consulting,Smb,Latam
+1529,Company_40,Education,Mid-Market,Latam
+1530,Company_341,Retail,Smb,Emea
+1531,Company_380,Retail,Mid-Market,North America
+1532,Company_465,Manufacturing,Mid-Market,Emea
+1533,Company_396,Media,Enterprise,Apac
+1534,Company_219,Education,Smb,Latam
+1535,Company_169,Consulting,Smb,Apac
+1536,Company_186,Education,Mid-Market,Emea
+1537,Company_327,Retail,Mid-Market,Apac
+1538,Company_201,Manufacturing,Smb,Apac
+1539,Company_405,Unknown,Smb,Apac
+1540,Company_265,Education,Smb,Latam
+1541,Company_386,Manufacturing,Enterprise,Emea
+1542,Company_247,Retail,Enterprise,North America
+1543,Company_140,Manufacturing,Mid-Market,Apac
+1544,Company_430,Media,Enterprise,North America
+1545,Company_367,Education,Enterprise,Emea
+1546,Company_182,Healthcare,Mid-Market,Apac
+1547,Company_396,Unknown,Smb,North America
+1548,Company_435,Finance,Mid-Market,Apac
+1549,Company_479,Unknown,Unknown,Emea
+1550,Company_341,Manufacturing,Smb,Emea
+1551,Company_431,Media,Enterprise,Emea
+1552,Company_438,Education,Smb,Latam
+1553,Company_304,Media,Enterprise,Apac
+1554,Company_61,Education,Mid-Market,Emea
+1555,Company_456,Consulting,Mid-Market,Emea
+1556,Company_430,Consulting,Mid-Market,Emea
+1557,Company_246,Finance,Smb,North America
+1558,Company_52,Finance,Enterprise,Apac
+1559,Company_487,Manufacturing,Mid-Market,Apac
+1560,Company_482,Technology,Mid-Market,Latam
+1561,Company_341,Media,Enterprise,Apac
+1562,Company_370,Healthcare,Mid-Market,Latam
+1563,Company_373,Media,Mid-Market,Emea
+1564,Company_236,Education,Unknown,Apac
+1565,Company_95,Education,Enterprise,North America
+1566,Company_70,Healthcare,Mid-Market,Apac
+1567,Company_393,Unknown,Enterprise,Latam
+1568,Company_3,Healthcare,Smb,Emea
+1569,Company_84,Media,Enterprise,North America
+1570,Company_134,Education,Mid-Market,Latam
+1571,Company_176,Media,Mid-Market,Emea
+1572,Company_485,Manufacturing,Smb,Latam
+1573,Company_213,Finance,Mid-Market,Apac
+1574,Company_294,Education,Smb,Latam
+1575,Company_112,Retail,Mid-Market,Apac
+1576,Company_484,Unknown,Enterprise,Apac
+1577,Company_111,Healthcare,Smb,Apac
+1578,Company_157,Media,Smb,Emea
+1579,Company_305,Media,Enterprise,Emea
+1580,Company_282,Retail,Smb,Apac
+1581,Company_467,Retail,Enterprise,Emea
+1582,Company_215,Education,Mid-Market,Emea
+1583,Company_430,Consulting,Smb,Apac
+1584,Company_462,Consulting,Mid-Market,Apac
+1585,Company_38,Retail,Smb,Emea
+1586,Company_100,Media,Enterprise,Apac
+1587,Company_91,Retail,Mid-Market,Latam
+1588,Company_409,Finance,Mid-Market,Emea
+1589,Company_56,Media,Enterprise,North America
+1590,Company_426,Retail,Enterprise,Latam
+1591,Company_123,Technology,Smb,North America
+1592,Company_140,Media,Smb,Latam
+1593,Company_199,Manufacturing,Smb,Apac
+1594,Company_299,Technology,Enterprise,Latam
+1595,Company_129,Media,Mid-Market,Latam
+1596,Company_219,Consulting,Mid-Market,Apac
+1597,Company_303,Unknown,Mid-Market,Emea
+1598,Company_369,Unknown,Smb,Latam
+1599,Company_445,Finance,Mid-Market,Latam
+1600,Company_333,Finance,Mid-Market,North America
+1601,Company_129,Manufacturing,Mid-Market,Apac
+1602,Company_111,Unknown,Smb,Emea
+1603,Company_129,Education,Enterprise,Apac
+1604,Company_329,Consulting,Mid-Market,Apac
+1605,Company_393,Media,Smb,Apac
+1606,Company_126,Technology,Unknown,North America
+1607,Company_175,Finance,Mid-Market,North America
+1608,Company_201,Manufacturing,Mid-Market,Latam
+1609,Company_141,Finance,Smb,North America
+1610,Company_398,Consulting,Smb,North America
+1611,Company_392,Technology,Enterprise,Apac
+1612,Company_310,Technology,Enterprise,Apac
+1613,Company_134,Education,Smb,North America
+1614,Company_453,Consulting,Smb,Latam
+1615,Company_180,Retail,Enterprise,North America
+1616,Company_80,Retail,Mid-Market,Latam
+1617,Company_238,Manufacturing,Enterprise,Apac
+1618,Company_183,Consulting,Smb,Apac
+1619,Company_269,Retail,Enterprise,Emea
+1620,Company_125,Consulting,Mid-Market,Apac
+1621,Company_131,Retail,Smb,Emea
+1622,Company_221,Consulting,Enterprise,Apac
+1623,Company_27,Healthcare,Smb,Apac
+1624,Company_107,Manufacturing,Smb,Latam
+1625,Company_427,Technology,Mid-Market,Latam
+1626,Company_157,Manufacturing,Smb,Emea
+1627,Company_210,Healthcare,Mid-Market,North America
+1628,Company_263,Technology,Smb,Emea
+1629,Company_425,Technology,Enterprise,North America
+1630,Company_349,Technology,Mid-Market,Latam
+1631,Company_421,Consulting,Mid-Market,Apac
+1632,Company_4,Retail,Enterprise,Emea
+1633,Company_489,Finance,Smb,Apac
+1634,Company_431,Technology,Mid-Market,Emea
+1635,Company_130,Media,Smb,Emea
+1636,Company_493,Finance,Mid-Market,Emea
+1637,Company_371,Manufacturing,Mid-Market,North America
+1638,Company_88,Technology,Mid-Market,Latam
+1639,Company_227,Media,Enterprise,Emea
+1640,Company_350,Education,Enterprise,Latam
+1641,Company_169,Retail,Smb,Emea
+1642,Company_396,Media,Mid-Market,Emea
+1643,Company_226,Education,Smb,Latam
+1644,Company_106,Manufacturing,Mid-Market,Emea
+1645,Company_149,Finance,Mid-Market,Emea
+1646,Company_6,Education,Enterprise,Apac
+1647,Company_293,Retail,Enterprise,Emea
+1648,Company_431,Consulting,Smb,Latam
+1649,Company_34,Finance,Enterprise,Latam
+1650,Company_345,Healthcare,Enterprise,Emea
+1651,Company_218,Education,Mid-Market,North America
+1652,Company_242,Unknown,Enterprise,Apac
+1653,Company_187,Media,Smb,North America
+1654,Company_18,Unknown,Enterprise,North America
+1655,Company_375,Retail,Smb,North America
+1656,Company_38,Consulting,Mid-Market,Latam
+1657,Company_85,Media,Smb,North America
+1658,Company_191,Retail,Smb,North America
+1659,Company_352,Consulting,Enterprise,Apac
+1660,Company_440,Finance,Smb,Emea
+1661,Company_371,Media,Smb,Latam
+1662,Company_374,Finance,Mid-Market,North America
+1663,Company_252,Media,Enterprise,Emea
+1664,Company_243,Consulting,Mid-Market,North America
+1665,Company_469,Consulting,Smb,Apac
+1666,Company_241,Unknown,Enterprise,North America
+1667,Company_32,Consulting,Mid-Market,Emea
+1668,Company_68,Media,Smb,Apac
+1669,Company_8,Education,Smb,Apac
+1670,Company_390,Education,Mid-Market,Emea
+1671,Company_455,Media,Mid-Market,Emea
+1672,Company_277,Finance,Mid-Market,Latam
+1673,Company_343,Technology,Mid-Market,Latam
+1674,Company_352,Finance,Enterprise,North America
+1675,Company_436,Consulting,Mid-Market,Latam
+1676,Company_103,Media,Mid-Market,Emea
+1677,Company_331,Consulting,Enterprise,Latam
+1678,Company_133,Retail,Unknown,Apac
+1679,Company_91,Healthcare,Mid-Market,Latam
+1680,Company_313,Healthcare,Enterprise,North America
+1681,Company_481,Education,Mid-Market,Emea
+1682,Company_369,Technology,Smb,Apac
+1683,Company_254,Retail,Smb,Emea
+1684,Company_340,Education,Mid-Market,Latam
+1685,Company_359,Media,Mid-Market,Latam
+1686,Company_431,Unknown,Mid-Market,Latam
+1687,Company_192,Healthcare,Mid-Market,North America
+1688,Company_455,Finance,Enterprise,Apac
+1689,Company_134,Consulting,Mid-Market,Latam
+1690,Company_295,Technology,Mid-Market,Emea
+1691,Company_255,Healthcare,Smb,Latam
+1692,Company_164,Media,Unknown,Latam
+1693,Company_119,Consulting,Smb,Latam
+1694,Company_438,Technology,Enterprise,Latam
+1695,Company_334,Healthcare,Unknown,Latam
+1696,Company_221,Education,Mid-Market,Apac
+1697,Company_5,Consulting,Enterprise,North America
+1698,Company_233,Retail,Smb,Emea
+1699,Company_324,Technology,Enterprise,Emea
+1700,Company_492,Unknown,Enterprise,Apac
+1701,Company_265,Finance,Mid-Market,Emea
+1702,Company_432,Media,Unknown,Apac
+1703,Company_340,Manufacturing,Enterprise,North America
+1704,Company_224,Retail,Mid-Market,North America
+1705,Company_453,Retail,Enterprise,Latam
+1706,Company_341,Consulting,Smb,Latam
+1707,Company_285,Manufacturing,Mid-Market,Latam
+1708,Company_14,Healthcare,Mid-Market,Latam
+1709,Company_139,Finance,Unknown,North America
+1710,Company_144,Technology,Enterprise,Emea
+1711,Company_354,Education,Mid-Market,North America
+1712,Company_108,Retail,Smb,Emea
+1713,Company_179,Retail,Smb,Emea
+1714,Company_148,Finance,Mid-Market,Apac
+1715,Company_58,Finance,Enterprise,Emea
+1716,Company_120,Manufacturing,Mid-Market,Apac
+1717,Company_359,Unknown,Smb,Latam
+1718,Company_131,Consulting,Mid-Market,Apac
+1719,Company_32,Technology,Smb,Latam
+1720,Company_146,Retail,Smb,North America
+1721,Company_117,Retail,Enterprise,Emea
+1722,Company_80,Healthcare,Smb,Emea
+1723,Company_497,Finance,Smb,Latam
+1724,Company_85,Education,Smb,Emea
+1725,Company_120,Education,Mid-Market,Apac
+1726,Company_19,Healthcare,Enterprise,Latam
+1727,Company_271,Retail,Smb,Apac
+1728,Company_356,Technology,Enterprise,Emea
+1729,Company_441,Education,Mid-Market,Emea
+1730,Company_50,Education,Mid-Market,Apac
+1731,Company_12,Technology,Smb,Emea
+1732,Company_125,Education,Smb,North America
+1733,Company_149,Manufacturing,Mid-Market,North America
+1734,Company_226,Manufacturing,Enterprise,Apac
+1735,Company_407,Education,Enterprise,North America
+1736,Company_469,Technology,Smb,North America
+1737,Company_343,Finance,Enterprise,Latam
+1738,Company_408,Retail,Unknown,Emea
+1739,Company_204,Media,Enterprise,Emea
+1740,Company_286,Finance,Unknown,Apac
+1741,Company_251,Manufacturing,Enterprise,Emea
+1742,Company_378,Consulting,Smb,Latam
+1743,Company_42,Media,Smb,Emea
+1744,Company_270,Technology,Mid-Market,North America
+1745,Company_161,Consulting,Enterprise,Apac
+1746,Company_293,Unknown,Mid-Market,North America
+1747,Company_52,Manufacturing,Unknown,Emea
+1748,Company_360,Consulting,Enterprise,Apac
+1749,Company_282,Manufacturing,Mid-Market,Emea
+1750,Company_237,Retail,Mid-Market,North America
+1751,Company_449,Education,Smb,Emea
+1752,Company_171,Healthcare,Smb,North America
+1753,Company_36,Finance,Smb,Emea
+1754,Company_142,Healthcare,Smb,Emea
+1755,Company_331,Technology,Smb,Apac
+1756,Company_275,Media,Smb,Emea
+1757,Company_469,Finance,Enterprise,North America
+1758,Company_144,Media,Enterprise,North America
+1759,Company_427,Unknown,Mid-Market,Emea
+1760,Company_496,Education,Smb,Latam
+1761,Company_232,Education,Mid-Market,North America
+1762,Company_237,Technology,Smb,North America
+1763,Company_278,Education,Smb,North America
+1764,Company_87,Media,Smb,North America
+1765,Company_75,Consulting,Mid-Market,Apac
+1766,Company_305,Education,Enterprise,Apac
+1767,Company_359,Consulting,Smb,Latam
+1768,Company_47,Finance,Mid-Market,Emea
+1769,Company_290,Unknown,Smb,Apac
+1770,Company_354,Technology,Smb,Emea
+1771,Company_44,Retail,Enterprise,Emea
+1772,Company_192,Finance,Smb,Latam
+1773,Company_486,Manufacturing,Mid-Market,Latam
+1774,Company_83,Manufacturing,Enterprise,North America
+1775,Company_162,Healthcare,Mid-Market,Apac
+1776,Company_437,Unknown,Mid-Market,North America
+1777,Company_232,Education,Enterprise,North America
+1778,Company_180,Manufacturing,Smb,Emea
+1779,Company_274,Consulting,Enterprise,Emea
+1780,Company_426,Manufacturing,Smb,North America
+1781,Company_260,Unknown,Enterprise,Emea
+1782,Company_327,Retail,Mid-Market,North America
+1783,Company_413,Retail,Smb,Emea
+1784,Company_385,Technology,Enterprise,Emea
+1785,Company_366,Healthcare,Enterprise,Latam
+1786,Company_266,Retail,Mid-Market,North America
+1787,Company_252,Education,Enterprise,Latam
+1788,Company_103,Manufacturing,Mid-Market,North America
+1789,Company_354,Technology,Smb,North America
+1790,Company_301,Consulting,Enterprise,Emea
+1791,Company_410,Consulting,Enterprise,Latam
+1792,Company_26,Education,Mid-Market,Emea
+1793,Company_392,Finance,Enterprise,North America
+1794,Company_121,Finance,Smb,Latam
+1795,Company_221,Media,Smb,North America
+1796,Company_335,Consulting,Mid-Market,Emea
+1797,Company_120,Retail,Smb,North America
+1798,Company_273,Consulting,Mid-Market,North America
+1799,Company_420,Technology,Enterprise,Apac
+1800,Company_227,Education,Smb,Apac
+1801,Company_326,Finance,Mid-Market,North America
+1802,Company_30,Healthcare,Enterprise,Apac
+1803,Company_410,Healthcare,Enterprise,Latam
+1804,Company_74,Media,Enterprise,Latam
+1805,Company_33,Media,Smb,North America
+1806,Company_49,Technology,Mid-Market,North America
+1807,Company_437,Unknown,Mid-Market,Emea
+1808,Company_283,Healthcare,Smb,North America
+1809,Company_48,Media,Mid-Market,Emea
+1810,Company_273,Finance,Enterprise,Latam
+1811,Company_340,Healthcare,Enterprise,Latam
+1812,Company_493,Manufacturing,Smb,Apac
+1813,Company_198,Consulting,Mid-Market,Latam
+1814,Company_132,Retail,Mid-Market,Emea
+1815,Company_113,Finance,Smb,Latam
+1816,Company_360,Finance,Enterprise,Apac
+1817,Company_176,Media,Enterprise,Apac
+1818,Company_280,Education,Enterprise,Emea
+1819,Company_315,Retail,Smb,Emea
+1820,Company_59,Media,Smb,North America
+1821,Company_146,Finance,Mid-Market,Emea
+1822,Company_371,Retail,Mid-Market,Emea
+1823,Company_105,Retail,Smb,Emea
+1824,Company_493,Manufacturing,Enterprise,Apac
+1825,Company_64,Education,Mid-Market,North America
+1826,Company_335,Manufacturing,Mid-Market,North America
+1827,Company_236,Media,Smb,Latam
+1828,Company_67,Technology,Mid-Market,Emea
+1829,Company_176,Education,Smb,Apac
+1830,Company_351,Finance,Smb,Emea
+1831,Company_461,Technology,Mid-Market,Apac
+1832,Company_112,Manufacturing,Smb,Latam
+1833,Company_65,Education,Mid-Market,North America
+1834,Company_407,Technology,Enterprise,Apac
+1835,Company_285,Unknown,Enterprise,Apac
+1836,Company_411,Education,Smb,Latam
+1837,Company_395,Technology,Enterprise,Emea
+1838,Company_203,Consulting,Mid-Market,Latam
+1839,Company_434,Consulting,Enterprise,North America
+1840,Company_50,Manufacturing,Smb,Apac
+1841,Company_71,Finance,Enterprise,North America
+1842,Company_176,Retail,Smb,Apac
+1843,Company_457,Technology,Mid-Market,Latam
+1844,Company_446,Finance,Smb,Latam
+1845,Company_55,Retail,Enterprise,Emea
+1846,Company_15,Manufacturing,Enterprise,Emea
+1847,Company_50,Unknown,Mid-Market,North America
+1848,Company_444,Education,Smb,North America
+1849,Company_380,Media,Smb,Latam
+1850,Company_81,Technology,Smb,North America
+1851,Company_168,Consulting,Smb,Apac
+1852,Company_57,Manufacturing,Smb,Apac
+1853,Company_67,Media,Mid-Market,North America
+1854,Company_100,Unknown,Smb,Emea
+1855,Company_199,Manufacturing,Smb,Latam
+1856,Company_15,Finance,Enterprise,Apac
+1857,Company_336,Media,Enterprise,Latam
+1858,Company_432,Finance,Enterprise,Emea
+1859,Company_299,Media,Smb,Emea
+1860,Company_447,Media,Unknown,Apac
+1861,Company_107,Healthcare,Smb,Emea
+1862,Company_35,Retail,Smb,Apac
+1863,Company_150,Consulting,Smb,Apac
+1864,Company_89,Consulting,Enterprise,Emea
+1865,Company_462,Education,Enterprise,Emea
+1866,Company_247,Manufacturing,Enterprise,Apac
+1867,Company_98,Healthcare,Enterprise,Emea
+1868,Company_472,Manufacturing,Smb,Latam
+1869,Company_214,Consulting,Enterprise,Apac
+1870,Company_16,Healthcare,Unknown,Latam
+1871,Company_138,Healthcare,Mid-Market,Latam
+1872,Company_438,Media,Enterprise,North America
+1873,Company_320,Retail,Mid-Market,Emea
+1874,Company_30,Media,Enterprise,Emea
+1875,Company_424,Healthcare,Smb,Latam
+1876,Company_111,Retail,Mid-Market,Apac
+1877,Company_39,Manufacturing,Unknown,North America
+1878,Company_85,Media,Enterprise,North America
+1879,Company_481,Consulting,Unknown,Latam
+1880,Company_116,Unknown,Unknown,North America
+1881,Company_434,Consulting,Smb,Latam
+1882,Company_354,Retail,Enterprise,Latam
+1883,Company_20,Unknown,Enterprise,Latam
+1884,Company_432,Finance,Unknown,Emea
+1885,Company_7,Manufacturing,Mid-Market,North America
+1886,Company_145,Finance,Enterprise,North America
+1887,Company_233,Finance,Enterprise,Apac
+1888,Company_419,Retail,Smb,North America
+1889,Company_280,Healthcare,Unknown,Emea
+1890,Company_339,Finance,Smb,North America
+1891,Company_438,Technology,Enterprise,North America
+1892,Company_345,Education,Mid-Market,Latam
+1893,Company_257,Retail,Enterprise,Apac
+1894,Company_475,Finance,Smb,North America
+1895,Company_326,Finance,Smb,North America
+1896,Company_486,Finance,Smb,Emea
+1897,Company_80,Unknown,Smb,North America
+1898,Company_285,Manufacturing,Mid-Market,Emea
+1899,Company_429,Manufacturing,Mid-Market,Emea
+1900,Company_55,Consulting,Enterprise,Apac

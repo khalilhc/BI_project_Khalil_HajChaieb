@@ -1,0 +1,385 @@
+channel_key,marketing_channel,touchpoint_position,device_type,lead_source
+86,Content Marketing,First Touch,Tablet,Outbound
+145,Content Marketing,Last Touch,Mobile,Referral
+331,Content Marketing,Last Touch,Desktop,Inbound
+50,Content Marketing,First Touch,Desktop,Referral
+52,Content Marketing,First Touch,Desktop,Inbound
+53,Content Marketing,Last Touch,Desktop,Referral
+309,Content Marketing,Multi Touch,Desktop,Referral
+58,Content Marketing,Multi Touch,Mobile,Referral
+300,Content Marketing,First Touch,Tablet,Inbound
+63,Content Marketing,Multi Touch,Mobile,Inbound
+69,Content Marketing,First Touch,Desktop,Outbound
+73,Content Marketing,Last Touch,Desktop,Partner
+211,Content Marketing,Last Touch,Mobile,Outbound
+279,Content Marketing,Mid Touch,Mobile,Inbound
+265,Content Marketing,Mid Touch,Mobile,Outbound
+186,Content Marketing,Multi Touch,Tablet,Partner
+79,Content Marketing,First Touch,Mobile,Referral
+212,Content Marketing,Last Touch,Tablet,Partner
+251,Content Marketing,Multi Touch,Tablet,Inbound
+92,Content Marketing,Multi Touch,Desktop,Inbound
+247,Content Marketing,First Touch,Mobile,Inbound
+123,Content Marketing,Last Touch,Mobile,Inbound
+218,Content Marketing,First Touch,Mobile,Partner
+237,Content Marketing,First Touch,Desktop,Partner
+101,Content Marketing,Last Touch,Mobile,Partner
+102,Content Marketing,Mid Touch,Mobile,Partner
+104,Content Marketing,Mid Touch,Tablet,Inbound
+231,Content Marketing,Multi Touch,Desktop,Partner
+108,Content Marketing,Multi Touch,Tablet,Referral
+230,Content Marketing,Multi Touch,Tablet,Outbound
+229,Content Marketing,First Touch,Mobile,Outbound
+170,Content Marketing,Mid Touch,Mobile,Referral
+344,Content Marketing,Mid Touch,Tablet,Partner
+115,Content Marketing,Last Touch,Tablet,Inbound
+33,Content Marketing,Multi Touch,Mobile,Partner
+349,Content Marketing,Mid Touch,Desktop,Partner
+183,Content Marketing,Mid Touch,Desktop,Referral
+23,Content Marketing,Mid Touch,Tablet,Outbound
+373,Content Marketing,Mid Touch,Tablet,Referral
+14,Content Marketing,First Touch,Tablet,Referral
+376,Content Marketing,Last Touch,Tablet,Outbound
+161,Content Marketing,Multi Touch,Desktop,Outbound
+167,Content Marketing,Mid Touch,Desktop,Inbound
+156,Content Marketing,Multi Touch,Mobile,Outbound
+378,Content Marketing,Mid Touch,Desktop,Outbound
+362,Content Marketing,Last Touch,Tablet,Referral
+346,Content Marketing,Last Touch,Desktop,Outbound
+15,Content Marketing,First Touch,Tablet,Partner
+81,Direct,Multi Touch,Mobile,Outbound
+261,Direct,Multi Touch,Mobile,Inbound
+368,Direct,Last Touch,Desktop,Partner
+130,Direct,Multi Touch,Mobile,Referral
+83,Direct,Mid Touch,Mobile,Partner
+128,Direct,First Touch,Desktop,Referral
+254,Direct,Mid Touch,Desktop,Outbound
+163,Direct,Multi Touch,Desktop,Inbound
+78,Direct,Mid Touch,Tablet,Partner
+35,Direct,Last Touch,Desktop,Inbound
+250,Direct,First Touch,Tablet,Partner
+216,Direct,First Touch,Tablet,Outbound
+19,Direct,Multi Touch,Tablet,Partner
+372,Direct,Multi Touch,Desktop,Referral
+121,Direct,Mid Touch,Mobile,Referral
+222,Direct,Last Touch,Mobile,Inbound
+5,Direct,Mid Touch,Mobile,Inbound
+106,Direct,Last Touch,Mobile,Referral
+223,Direct,Multi Touch,Mobile,Partner
+110,Direct,Last Touch,Tablet,Partner
+2,Direct,Multi Touch,Desktop,Partner
+224,Direct,Last Touch,Tablet,Outbound
+252,Direct,Last Touch,Desktop,Outbound
+11,Direct,First Touch,Mobile,Outbound
+367,Direct,Mid Touch,Desktop,Inbound
+284,Direct,Multi Touch,Tablet,Referral
+152,Direct,Mid Touch,Tablet,Referral
+187,Direct,Last Touch,Tablet,Inbound
+193,Direct,Last Touch,Tablet,Referral
+30,Direct,Multi Touch,Tablet,Inbound
+330,Direct,Mid Touch,Desktop,Partner
+144,Direct,Last Touch,Desktop,Referral
+324,Direct,Mid Touch,Desktop,Referral
+322,Direct,First Touch,Tablet,Inbound
+140,Direct,First Touch,Desktop,Inbound
+21,Direct,Mid Touch,Mobile,Outbound
+308,Direct,First Touch,Mobile,Inbound
+197,Direct,Last Touch,Mobile,Partner
+116,Direct,First Touch,Mobile,Partner
+57,Direct,Multi Touch,Desktop,Outbound
+160,Direct,First Touch,Tablet,Referral
+307,Direct,First Touch,Desktop,Outbound
+361,Direct,First Touch,Desktop,Partner
+71,Direct,First Touch,Mobile,Referral
+61,Direct,Multi Touch,Tablet,Outbound
+296,Direct,Last Touch,Mobile,Outbound
+208,Direct,Mid Touch,Tablet,Outbound
+294,Direct,Mid Touch,Tablet,Inbound
+209,Display Ads,Mid Touch,Tablet,Outbound
+150,Display Ads,Mid Touch,Mobile,Partner
+176,Display Ads,Last Touch,Desktop,Referral
+207,Display Ads,Multi Touch,Mobile,Inbound
+206,Display Ads,First Touch,Mobile,Referral
+129,Display Ads,First Touch,Mobile,Partner
+168,Display Ads,First Touch,Desktop,Partner
+143,Display Ads,First Touch,Tablet,Outbound
+213,Display Ads,Mid Touch,Mobile,Inbound
+198,Display Ads,Last Touch,Mobile,Inbound
+142,Display Ads,Multi Touch,Tablet,Referral
+141,Display Ads,Multi Touch,Mobile,Outbound
+182,Display Ads,Multi Touch,Mobile,Referral
+159,Display Ads,First Touch,Desktop,Inbound
+178,Display Ads,Last Touch,Mobile,Partner
+165,Display Ads,Mid Touch,Desktop,Inbound
+119,Display Ads,Multi Touch,Desktop,Outbound
+214,Display Ads,Last Touch,Mobile,Referral
+192,Display Ads,First Touch,Tablet,Referral
+113,Display Ads,Last Touch,Tablet,Outbound
+56,Display Ads,Multi Touch,Desktop,Inbound
+114,Display Ads,First Touch,Mobile,Inbound
+325,Display Ads,Multi Touch,Mobile,Partner
+332,Display Ads,Mid Touch,Tablet,Partner
+39,Display Ads,Last Touch,Desktop,Inbound
+338,Display Ads,Mid Touch,Desktop,Referral
+295,Display Ads,Last Touch,Tablet,Referral
+343,Display Ads,First Touch,Mobile,Outbound
+29,Display Ads,Mid Touch,Mobile,Referral
+358,Display Ads,Multi Touch,Tablet,Outbound
+370,Display Ads,Last Touch,Tablet,Partner
+16,Display Ads,Mid Touch,Tablet,Referral
+13,Display Ads,First Touch,Tablet,Partner
+375,Display Ads,Multi Touch,Tablet,Partner
+31,Display Ads,Last Touch,Tablet,Inbound
+288,Display Ads,Multi Touch,Tablet,Inbound
+173,Display Ads,Mid Touch,Mobile,Outbound
+96,Display Ads,First Touch,Desktop,Referral
+240,Display Ads,Mid Touch,Tablet,Inbound
+112,Display Ads,Last Touch,Desktop,Partner
+281,Display Ads,First Touch,Tablet,Inbound
+276,Display Ads,Multi Touch,Desktop,Referral
+88,Display Ads,Last Touch,Desktop,Outbound
+107,Display Ads,Last Touch,Mobile,Outbound
+263,Display Ads,Mid Touch,Desktop,Partner
+243,Display Ads,First Touch,Desktop,Outbound
+253,Display Ads,Multi Touch,Desktop,Partner
+239,Display Ads,Mid Touch,Desktop,Outbound
+354,Email,Last Touch,Tablet,Inbound
+357,Email,Last Touch,Mobile,Partner
+290,Email,Mid Touch,Mobile,Inbound
+181,Email,Mid Touch,Desktop,Outbound
+179,Email,Last Touch,Tablet,Referral
+371,Email,First Touch,Mobile,Outbound
+377,Email,Multi Touch,Tablet,Inbound
+379,Email,First Touch,Tablet,Outbound
+233,Email,Multi Touch,Desktop,Referral
+232,Email,Last Touch,Tablet,Partner
+340,Email,First Touch,Tablet,Referral
+185,Email,Last Touch,Mobile,Inbound
+286,Email,Mid Touch,Desktop,Referral
+244,Email,Mid Touch,Desktop,Inbound
+188,Email,First Touch,Mobile,Inbound
+191,Email,Mid Touch,Mobile,Outbound
+333,Email,Multi Touch,Desktop,Partner
+194,Email,Mid Touch,Mobile,Partner
+258,Email,First Touch,Mobile,Referral
+321,Email,Last Touch,Desktop,Inbound
+320,Email,First Touch,Tablet,Partner
+317,Email,Last Touch,Desktop,Referral
+200,Email,Multi Touch,Desktop,Inbound
+202,Email,Last Touch,Desktop,Partner
+293,Email,Last Touch,Desktop,Outbound
+184,Email,Mid Touch,Tablet,Referral
+323,Email,Mid Touch,Tablet,Partner
+1,Email,Last Touch,Mobile,Outbound
+146,Email,First Touch,Tablet,Inbound
+139,Email,First Touch,Desktop,Referral
+66,Email,Multi Touch,Tablet,Outbound
+28,Email,Multi Touch,Desktop,Outbound
+47,Email,First Touch,Desktop,Inbound
+148,Email,Multi Touch,Mobile,Partner
+20,Email,Last Touch,Tablet,Outbound
+72,Email,First Touch,Desktop,Partner
+151,Email,Mid Touch,Tablet,Inbound
+27,Email,Mid Touch,Desktop,Partner
+154,Email,First Touch,Mobile,Partner
+105,Email,Multi Touch,Tablet,Referral
+9,Email,Multi Touch,Tablet,Partner
+87,Email,Mid Touch,Tablet,Outbound
+134,Email,Mid Touch,Mobile,Referral
+51,Email,Multi Touch,Mobile,Inbound
+126,Email,Multi Touch,Mobile,Referral
+48,Email,First Touch,Desktop,Outbound
+12,Email,Multi Touch,Mobile,Outbound
+98,Email,Last Touch,Mobile,Referral
+103,Organic Social,Multi Touch,Tablet,Referral
+59,Organic Social,Mid Touch,Tablet,Inbound
+54,Organic Social,Last Touch,Mobile,Inbound
+315,Organic Social,Multi Touch,Mobile,Outbound
+303,Organic Social,Last Touch,Mobile,Partner
+299,Organic Social,Multi Touch,Desktop,Partner
+117,Organic Social,Mid Touch,Mobile,Partner
+298,Organic Social,Multi Touch,Tablet,Inbound
+384,Organic Social,Multi Touch,Mobile,Referral
+292,Organic Social,First Touch,Mobile,Outbound
+95,Organic Social,Last Touch,Tablet,Referral
+67,Organic Social,First Touch,Mobile,Partner
+91,Organic Social,First Touch,Tablet,Referral
+89,Organic Social,Multi Touch,Tablet,Outbound
+277,Organic Social,Last Touch,Desktop,Partner
+76,Organic Social,First Touch,Desktop,Inbound
+257,Organic Social,Multi Touch,Mobile,Inbound
+84,Organic Social,First Touch,Desktop,Outbound
+260,Organic Social,Multi Touch,Desktop,Inbound
+272,Organic Social,First Touch,Desktop,Referral
+262,Organic Social,Mid Touch,Desktop,Outbound
+80,Organic Social,Multi Touch,Desktop,Outbound
+297,Organic Social,Multi Touch,Tablet,Partner
+77,Organic Social,First Touch,Tablet,Partner
+326,Organic Social,Last Touch,Tablet,Outbound
+266,Organic Social,Last Touch,Mobile,Outbound
+383,Organic Social,Last Touch,Tablet,Inbound
+17,Organic Social,First Touch,Mobile,Referral
+147,Organic Social,Mid Touch,Tablet,Referral
+217,Organic Social,Multi Touch,Mobile,Partner
+24,Organic Social,Multi Touch,Desktop,Referral
+201,Organic Social,First Touch,Tablet,Outbound
+348,Organic Social,Last Touch,Desktop,Referral
+162,Organic Social,Mid Touch,Desktop,Partner
+345,Organic Social,Mid Touch,Desktop,Inbound
+149,Organic Social,Mid Touch,Mobile,Inbound
+34,Organic Social,Mid Touch,Mobile,Referral
+7,Organic Social,Mid Touch,Tablet,Partner
+164,Organic Social,Mid Touch,Mobile,Outbound
+133,Organic Social,Last Touch,Mobile,Referral
+380,Organic Social,Mid Touch,Desktop,Referral
+40,Organic Social,First Touch,Desktop,Partner
+125,Organic Social,Last Touch,Desktop,Outbound
+131,Organic Social,First Touch,Mobile,Inbound
+189,Organic Social,First Touch,Tablet,Inbound
+177,Organic Social,Last Touch,Desktop,Inbound
+132,Organic Social,Mid Touch,Tablet,Outbound
+38,Organic Social,Last Touch,Tablet,Partner
+4,Paid Search,First Touch,Mobile,Outbound
+75,Paid Search,Last Touch,Tablet,Inbound
+275,Paid Search,Mid Touch,Mobile,Outbound
+3,Paid Search,First Touch,Mobile,Partner
+8,Paid Search,Mid Touch,Tablet,Outbound
+268,Paid Search,Last Touch,Desktop,Outbound
+74,Paid Search,Mid Touch,Tablet,Inbound
+374,Paid Search,Mid Touch,Mobile,Partner
+328,Paid Search,Last Touch,Mobile,Inbound
+287,Paid Search,Last Touch,Tablet,Partner
+329,Paid Search,Last Touch,Tablet,Referral
+45,Paid Search,Mid Touch,Mobile,Inbound
+49,Paid Search,Mid Touch,Tablet,Partner
+334,Paid Search,Multi Touch,Mobile,Inbound
+310,Paid Search,Mid Touch,Mobile,Referral
+306,Paid Search,First Touch,Tablet,Referral
+285,Paid Search,First Touch,Tablet,Inbound
+341,Paid Search,Multi Touch,Desktop,Partner
+304,Paid Search,Multi Touch,Tablet,Referral
+302,Paid Search,Last Touch,Desktop,Partner
+352,Paid Search,Multi Touch,Tablet,Outbound
+359,Paid Search,Multi Touch,Desktop,Outbound
+291,Paid Search,Multi Touch,Mobile,Referral
+289,Paid Search,Mid Touch,Tablet,Referral
+305,Paid Search,Multi Touch,Desktop,Inbound
+363,Paid Search,First Touch,Desktop,Inbound
+171,Paid Search,Mid Touch,Desktop,Inbound
+278,Paid Search,First Touch,Tablet,Outbound
+157,Paid Search,Last Touch,Tablet,Outbound
+94,Paid Search,First Touch,Desktop,Referral
+246,Paid Search,First Touch,Mobile,Inbound
+120,Paid Search,Last Touch,Mobile,Referral
+93,Paid Search,Mid Touch,Desktop,Referral
+236,Paid Search,Multi Touch,Tablet,Partner
+153,Paid Search,First Touch,Mobile,Referral
+195,Paid Search,Multi Touch,Mobile,Partner
+210,Paid Search,Multi Touch,Desktop,Referral
+100,Paid Search,First Touch,Desktop,Partner
+196,Paid Search,Mid Touch,Desktop,Outbound
+90,Paid Search,Last Touch,Desktop,Inbound
+85,Paid Search,First Touch,Desktop,Outbound
+169,Paid Search,Multi Touch,Mobile,Outbound
+175,Paid Search,Mid Touch,Desktop,Partner
+174,Paid Search,Last Touch,Mobile,Partner
+204,Paid Search,Last Touch,Mobile,Outbound
+82,Paid Search,Multi Touch,Tablet,Inbound
+203,Paid Search,First Touch,Tablet,Partner
+267,Paid Search,Last Touch,Desktop,Referral
+318,Retargeting,Multi Touch,Desktop,Inbound
+225,Retargeting,Last Touch,Tablet,Partner
+316,Retargeting,Multi Touch,Mobile,Outbound
+22,Retargeting,Last Touch,Tablet,Referral
+226,Retargeting,Mid Touch,Desktop,Inbound
+46,Retargeting,Multi Touch,Tablet,Partner
+364,Retargeting,Multi Touch,Tablet,Outbound
+41,Retargeting,Multi Touch,Desktop,Partner
+122,Retargeting,First Touch,Tablet,Referral
+124,Retargeting,Last Touch,Desktop,Partner
+42,Retargeting,First Touch,Desktop,Outbound
+365,Retargeting,Multi Touch,Desktop,Outbound
+26,Retargeting,Mid Touch,Mobile,Outbound
+335,Retargeting,First Touch,Mobile,Referral
+336,Retargeting,Mid Touch,Mobile,Referral
+337,Retargeting,First Touch,Mobile,Inbound
+339,Retargeting,First Touch,Mobile,Partner
+355,Retargeting,Mid Touch,Desktop,Outbound
+36,Retargeting,Mid Touch,Desktop,Referral
+205,Retargeting,Last Touch,Mobile,Outbound
+32,Retargeting,Multi Touch,Mobile,Partner
+347,Retargeting,Mid Touch,Mobile,Partner
+44,Retargeting,First Touch,Tablet,Outbound
+366,Retargeting,First Touch,Tablet,Inbound
+228,Retargeting,Mid Touch,Tablet,Partner
+311,Retargeting,Multi Touch,Tablet,Referral
+271,Retargeting,Last Touch,Desktop,Outbound
+273,Retargeting,Last Touch,Mobile,Referral
+274,Retargeting,Multi Touch,Mobile,Inbound
+255,Retargeting,Multi Touch,Tablet,Inbound
+280,Retargeting,Mid Touch,Tablet,Inbound
+282,Retargeting,Mid Touch,Desktop,Partner
+249,Retargeting,Mid Touch,Mobile,Inbound
+248,Retargeting,Mid Touch,Tablet,Outbound
+68,Retargeting,Last Touch,Mobile,Inbound
+312,Retargeting,First Touch,Tablet,Partner
+242,Retargeting,First Touch,Desktop,Referral
+180,Retargeting,First Touch,Desktop,Inbound
+65,Retargeting,Last Touch,Desktop,Referral
+245,Retargeting,Mid Touch,Tablet,Referral
+158,Retargeting,First Touch,Mobile,Outbound
+353,Retargeting,Multi Touch,Desktop,Referral
+55,Retargeting,Last Touch,Mobile,Partner
+109,Retargeting,Last Touch,Desktop,Inbound
+60,Retargeting,Last Touch,Tablet,Outbound
+369,Retargeting,First Touch,Desktop,Partner
+97,Retargeting,Last Touch,Tablet,Inbound
+62,Retargeting,Multi Touch,Mobile,Referral
+166,Webinar,First Touch,Mobile,Referral
+25,Webinar,Last Touch,Mobile,Referral
+155,Webinar,Mid Touch,Desktop,Partner
+6,Webinar,Last Touch,Tablet,Outbound
+360,Webinar,Mid Touch,Desktop,Referral
+356,Webinar,Multi Touch,Tablet,Referral
+199,Webinar,First Touch,Desktop,Outbound
+18,Webinar,Mid Touch,Tablet,Partner
+138,Webinar,Mid Touch,Tablet,Inbound
+190,Webinar,Last Touch,Mobile,Partner
+381,Webinar,First Touch,Tablet,Outbound
+382,Webinar,First Touch,Mobile,Outbound
+10,Webinar,Mid Touch,Mobile,Referral
+137,Webinar,Mid Touch,Mobile,Inbound
+264,Webinar,Mid Touch,Tablet,Outbound
+350,Webinar,First Touch,Mobile,Partner
+269,Webinar,Last Touch,Tablet,Inbound
+270,Webinar,Multi Touch,Desktop,Partner
+259,Webinar,Last Touch,Mobile,Inbound
+256,Webinar,Multi Touch,Mobile,Inbound
+172,Webinar,Last Touch,Mobile,Outbound
+283,Webinar,Multi Touch,Tablet,Outbound
+70,Webinar,Last Touch,Desktop,Partner
+241,Webinar,Multi Touch,Desktop,Inbound
+64,Webinar,Last Touch,Desktop,Referral
+238,Webinar,First Touch,Desktop,Referral
+99,Webinar,Last Touch,Desktop,Inbound
+301,Webinar,Mid Touch,Mobile,Outbound
+235,Webinar,First Touch,Tablet,Referral
+234,Webinar,First Touch,Tablet,Partner
+351,Webinar,Mid Touch,Mobile,Partner
+111,Webinar,First Touch,Tablet,Inbound
+313,Webinar,Last Touch,Tablet,Partner
+314,Webinar,Last Touch,Tablet,Referral
+319,Webinar,Multi Touch,Tablet,Partner
+118,Webinar,First Touch,Desktop,Inbound
+221,Webinar,Multi Touch,Mobile,Referral
+220,Webinar,Multi Touch,Tablet,Inbound
+327,Webinar,First Touch,Mobile,Inbound
+43,Webinar,Mid Touch,Desktop,Inbound
+215,Webinar,Mid Touch,Desktop,Outbound
+127,Webinar,First Touch,Desktop,Partner
+37,Webinar,Mid Touch,Tablet,Referral
+135,Webinar,Multi Touch,Desktop,Referral
+342,Webinar,Multi Touch,Mobile,Partner
+136,Webinar,Last Touch,Desktop,Outbound
+227,Webinar,Multi Touch,Mobile,Outbound
+219,Webinar,Multi Touch,Desktop,Outbound

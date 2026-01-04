@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+*.pyc
+
+*.csv
+!data_cleaned/*.csv
+
+.DS_Store
+Thumbs.db
+desktop.ini
