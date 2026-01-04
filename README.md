@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-\# MarketFlow Analytics - Business Intelligence Project
+HEAD
+MarketFlow Analytics - Business Intelligence Project
 
 
 
@@ -7,35 +7,34 @@ Multi-Channel Marketing Attribution Analytics for B2B SaaS Marketing Optimizatio
 
 
 
-\## 📊 Project Overview
+📊 Project Overview
 
 
 
-\*\*Industry:\*\* B2B SaaS Marketing Technology  
+Industry:B2B SaaS Marketing Technology  
+Organization: MarketFlow Analytics (Fictional)  
 
-\*\*Organization:\*\* MarketFlow Analytics (Fictional)  
+Problem: Optimize marketing budget allocation using multi-touch attribution  
 
-\*\*Problem:\*\* Optimize marketing budget allocation using multi-touch attribution  
-
-\*\*Tools:\*\* Python, Power BI, SQL
-
+Tools: Python, Power BI, SQL
 
 
-\## 🎯 Business Problem
+
+🎯 Business Problem
 
 
 
 MarketFlow Analytics faces a 40% increase in Customer Acquisition Cost (CAC) due to inefficient "last-click" attribution. This project implements multi-touch attribution to:
 
-\- Identify true channel ROI
+- Identify true channel ROI
 
-\- Optimize $6.2M marketing budget allocation
+- Optimize $6.2M marketing budget allocation
 
-\- Reduce CAC by 15-25%
+- Reduce CAC by 15-25%
 
 
 
-\## 📁 Repository Structure
+📁 Repository Structure
 
 ```
 
@@ -55,7 +54,7 @@ MarketFlow Analytics faces a 40% increase in Customer Acquisition Cost (CAC) due
 
 
 
-\## 🔑 Key Performance Indicators (KPIs)
+🔑 Key Performance Indicators (KPIs)
 
 
 
@@ -71,7 +70,7 @@ MarketFlow Analytics faces a 40% increase in Customer Acquisition Cost (CAC) due
 
 
 
-\## 📈 Analytical Questions Addressed
+📈 Analytical Questions Addressed
 
 
 
@@ -93,43 +92,43 @@ MarketFlow Analytics faces a 40% increase in Customer Acquisition Cost (CAC) due
 
 
 
-\## 🛠️ Technical Stack
+🛠️ Technical Stack
 
 
 
-\- \*\*ETL:\*\* Python (Pandas, NumPy)
+-ETL: Python (Pandas, NumPy)
 
-\- \*\*Data Modeling:\*\* Star Schema (1 Fact, 4 Dimensions)
+- Data Modeling: Star Schema (1 Fact, 4 Dimensions)
 
-\- \*\*Visualization:\*\* Power BI Desktop
+- Visualization: Power BI Desktop
 
-\- \*\*Version Control:\*\* Git/GitHub
-
-
-
-\## 📊 Dashboard Features
+- Version Control: Git/GitHub
 
 
 
-\- \*\*Executive Summary:\*\* High-level KPIs and channel performance
-
-\- \*\*Attribution Analysis:\*\* Multi-touch vs last-click comparison
-
-\- \*\*Geographic \& Forecast:\*\* Regional performance and predictive analytics
-
-\- \*\*Interactive Features:\*\* Slicers, drill-through, cross-filtering
+📊 Dashboard Features
 
 
 
-\*\*Visuals:\*\* 12 interactive visualizations  
+- Executive Summary: High-level KPIs and channel performance
 
-\*\*DAX Measures:\*\* 5 custom calculations  
+- Attribution Analysis: Multi-touch vs last-click comparison
 
-\*\*Forecast:\*\* 90-day revenue prediction with 95% confidence interval
+- Geographic & Forecast: Regional performance and predictive analytics
+
+- Interactive Features: Slicers, drill-through, cross-filtering
 
 
 
-\## 👥 Student(s)
+Visuals: 12 interactive visualizations  
+
+DAX Measures: 5 custom calculations  
+
+Forecast: 90-day revenue prediction with 95% confidence interval
+
+
+
+👥 Student(s)
 
 
 
@@ -138,70 +137,6 @@ Khalil hajChaieb - Major Marketing Minor IT (Ajout)
 IT300 - Business Intelligence  
 
 Tunis Business School
-
-
-
-\## 📄 Files Access
-
-
-
-\### Power BI Dashboard
-
-\*\*File:\*\* `dashboard/MarketFlow\_Dashboard.pbix`  
-
-
-
-\### Screenshots
-
-Preview images available in `dashboard/screenshots/`
-
-
-
-\## 🚀 How to Use This Repository
-
-
-
-1\. \*\*Clone repository:\*\*
-
-```bash
-
-&nbsp;  git clone https://github.com/khalilhc/BI\_project\_Khalil\_HajChaieb.git```
-
-
-
-2\. \*\*Review documentation:\*\*
-
-&nbsp;  - Start with use case: `BI project-Week-1.pdf`
-
-&nbsp;  - Check data dictionary: `data\_cleaned/data\_dictionary.xlsx`
-
-&nbsp;  - Open dashboard: `dashboard/MarketFlow\_Dashboard.pbix`
-
-
-
-3\. \*\*Explore ETL process:\*\*
-
-&nbsp;  - Review cleaning scripts: `etl/ETL\_Marketing\_Attribution.ipynb`
-
-
-
-4\. \*\*View insights:\*\*
-
-&nbsp;  - Read final report: `report/MarketFlow\_Insights\_Report.pdf`
-
-
-
----
-
-
-
-\*\*Course:\*\* IT300 Business Intelligence  
-
-\*\*Institution:\*\* Tunis Business School  
-
-\*\*Semester:\*\* Fall 2025  
-
-\*\*Instructor:\*\* Dr. Manel Abdelkader
 
 =======
 # BI_project_Khalil_HajChaieb
